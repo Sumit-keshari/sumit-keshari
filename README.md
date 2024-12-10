@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-This is my first repository
+This is my repository
 <br>
 Author -Sumit kesarwani
